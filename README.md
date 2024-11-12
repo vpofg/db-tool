@@ -292,19 +292,13 @@ CREATE INDEX FOR (c:Category) ON (c.name);
 The above, improves search by name, which is the most common in all the designed queries.
 </br>
 </br>
-## Student Roles
-We have divided the work in the project between the two students
+## Parts
 
-### Jan
-This student was responsible for:
 - Setting up the database 
 - Designing the query for data upload
 	- The query was created and uploaded, there were many versions of the query as working with a big data model like this one was demanding for the system.
 - First 6 queries 
 - Documentation
-
-### Michał
-This student was responsible for:
 - Designing last 6 queries
 - Designing the python script
 	- The script had to be implemented in a way that the command in terminal takes in predefined values and uses appropriate function. The program also takes note and calculates time of execution.
