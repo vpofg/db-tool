@@ -51,7 +51,7 @@ After installing all software from Prerequisites chapter perform the following s
 To clone the repository to the desired folder use:
 
 ```
-git clone https://gitlab.kis.agh.edu.pl/databases-2-2024/db2-14-michal-konieczny-jan-gwara
+git clone https://github.com/vpofg/db-tool.git
 ```
 From here on now, the directory for the python scripts is the one created with clone
 </br>
