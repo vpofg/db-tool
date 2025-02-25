@@ -1,4 +1,4 @@
-# DB2 14 Michał Konieczny Jan Gwara
+# DB2 14 Jan Gwara
 
 ## The Tech Stack
 
